@@ -11,6 +11,6 @@ Bot de whatsapp de economía y interacciones con un tono un tanto soez y vulgar,
 -> index.js   (cuando pongas el index.js no te olvides de agregar una > al inicio y luego has un espacio, o bueno agregarlo así > index.js) 
 - nano index.js
 # 4. Ejecutar
-- en el nano index.js se pega la información que está en el node.js y en termux cuando ya este pegado se presiona Ctrl + ^ luego de nuevo Cntrl + X y cuando salga que si quieres guardar los cambios le das en Y y enter, para ejecutarlo pones node.js y ya, 
+- en el nano index.js se pega la información que está en el node.js y en termux cuando ya este pegado se presiona Ctrl + ^ luego de nuevo Cntrl + X y cuando salga que si quieres guardar los cambios le das en Y y enter, para ejecutarlo pones node index.js y ya. 
 
 # ¡DISFRUTA! 
