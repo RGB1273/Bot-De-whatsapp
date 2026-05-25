@@ -8,7 +8,7 @@ npm init -y
 npm install @whiskeysockets/baileys pino @hapi/boom
 
 # 3. Limpiar cualquier rastro de index.js anterior y abrir el editor
-> index.js
+> index.js(> index.js) 
 nano index.js
 # 4. Ejecutar
 en el nano.js se pega la información que está en el node.js y en termux cuando ya este pegado se presiona Ctrl + ^ luego de nuevo Cntrl + X y cuando salga que si quieres guardar los cambios le das en Y y enter, para ejecutarlo pones node.js y ya, 
